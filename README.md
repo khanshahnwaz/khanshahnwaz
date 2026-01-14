@@ -49,7 +49,6 @@ A web application to track and organize DSA practice efficiently.
 A real-time collaborative text editor with live updates.  
 **Tech:** React, Node.js, WebSockets
 
-🔹 *(Add one more strong project here for best impact)*
 
 ---
 
